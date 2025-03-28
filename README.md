@@ -4,7 +4,7 @@ A simple and user-friendly calculator built using JavaFX. This application allow
 ## Features
 - JavaFX GUI: A clean and easy-to-use graphical user interface (GUI) built with JavaFX.
 
-- Lightweight & Fast: Designed to be a simple yet efficient tool for currency conversion.
+- Lightweight & Fast: Designed to be a simple yet efficient tool for basic calculations.
 
 - Customizable: The GUI is built in a way that allows future updates for more features or customization.
 
